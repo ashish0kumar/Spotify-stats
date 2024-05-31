@@ -1,6 +1,8 @@
 # Spotify-stats ♫
 A script written in Python to get your Spotify stats
+<br>
 
+![script output](image.png)
 
 ## Features
 
@@ -18,7 +20,7 @@ A script written in Python to get your Spotify stats
 - `colorama` library (install it via `pip install colorama`)
 - `pyfiglet` library (install it via `pip install pyfiglet`)
 
-## Setup Instructions
+## Usage
 1. Clone this repository.
 2. Install the dependencies `pip install -r requirements.txt`
 
