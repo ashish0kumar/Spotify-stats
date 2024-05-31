@@ -1,6 +1,5 @@
 # Spotify-stats ♫
 A script written in Python to get your Spotify stats
-<br>
 
 ![script output](image.png)
 
@@ -22,7 +21,13 @@ A script written in Python to get your Spotify stats
 
 ## Usage
 1. Clone this repository.
-2. Install the dependencies `pip install -r requirements.txt`
+```bash
+git clone https://github.com/ashish0kumar/Spotify-stats.git
+```
+2. Install the dependencies 
+```bash
+pip install -r requirements.txt
+```
 
 3. Configure Spotify API credentials:
 Create a Spotify App on the Spotify Developer Dashboard.
