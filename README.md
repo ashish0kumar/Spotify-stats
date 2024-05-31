@@ -5,11 +5,12 @@ A script written in Python to get your Spotify stats
 
 ## Features
 
-- Display the currently playing song at the top with a distinctive color.
-- Show your top 5 artists based on listening history.
-- Present the top 5 songs you've listened to recently.
-- Highlight your top 5 albums.
-- Share the top 5 songs you've recently played.
+Displays:
+- currently playing song at the top with a distinctive color.
+- top 5 artists based on listening history.
+- top 5 songs you've listened to recently.
+- top 5 albums.
+- top 5 songs you've recently played.
 
 
 ## Requirements
