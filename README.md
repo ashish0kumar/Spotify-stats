@@ -35,4 +35,10 @@ Obtain your `CLIENT_ID` and `CLIENT_SECRET.`
 Set the `REDIRECT_URI` to http://localhost:5173/callback/ (you can set it to any URL you want to but you'll have to edit `REDIRECT_URI` in the script as well to match it) in your Spotify App settings.
 
 5. Update stats.py: Replace the placeholders in the get_spotify_stats function with your `CLIENT_ID` and `CLIENT_SECRET`.
-6. You can now run `python stats.py` to get the stats.
+6. You can now run the stats.py script to get the stats.
+```bash
+python stats.py
+```
+
+## License
+This project is licensed under the MIT License.
