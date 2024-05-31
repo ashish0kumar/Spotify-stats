@@ -1,8 +1,8 @@
-# Spotify-stats
-A script written in Python to get your Spotify stats ♫
+# Spotify-stats ♫
+A script written in Python to get your Spotify stats
 
 
-## Features ♫
+## Features
 
 - Display the currently playing song at the top with a distinctive color.
 - Show your top 5 artists based on listening history.
