@@ -1,4 +1,4 @@
-# Spotify-stats ♫
+# 🎵 Spotify-stats
 A script written in Python to get your Spotify stats
 
 ![script output](image.png)
