@@ -3,7 +3,7 @@ A script written in Python to get your Spotify stats
 
 ![script output](image.png)
 
-## Features
+## ✨ Features
 
 Displays:
 - currently playing song at the top with a distinctive color.
@@ -13,14 +13,14 @@ Displays:
 - top 5 songs you've recently played.
 
 
-## Requirements
+## ⚙️ Requirements
 
 - Python 3.x
 - `spotipy` library (install it via `pip install spotipy`)
 - `colorama` library (install it via `pip install colorama`)
 - `pyfiglet` library (install it via `pip install pyfiglet`)
 
-## Usage
+## 📄 Usage
 1. Clone this repository.
 ```bash
 git clone https://github.com/ashish0kumar/Spotify-stats.git
@@ -41,5 +41,5 @@ Set the `REDIRECT_URI` to http://localhost:5173/callback/ (you can set it to any
 python stats.py
 ```
 
-## License
+## 📜 License
 This project is licensed under the MIT License.
