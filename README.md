@@ -20,7 +20,7 @@ Displays:
 - `colorama` library (install it via `pip install colorama`)
 - `pyfiglet` library (install it via `pip install pyfiglet`)
 
-## 📄 Usage
+## 🚀 Usage
 1. Clone this repository.
 ```bash
 git clone https://github.com/ashish0kumar/Spotify-stats.git
